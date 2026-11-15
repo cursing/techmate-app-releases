@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.0.0/bundle.zip",
+  "sha256": "5b6092f776539e1955cd1d4685c635bb106856273bb7db701945bf22083a8bdb",
+  "notes": "Πρώτη ενιαία έκδοση: TechMate + Ημερολόγιο",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.0.0/TechMate-1.0.0.apk",
+  "minNative": "1.0.0",
+  "apkSize": 6668716
+}

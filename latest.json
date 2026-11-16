@@ -1,9 +1,9 @@
 {
-  "version": "1.9.2",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.9.2/bundle.zip",
-  "sha256": "6f0717729b6fbc207c69e713965baa4795fd866488b16c0c592c66063fa21f7c",
-  "notes": "1.9.2: ο φωνητικός βοηθός περνά από δική μας Cloud Function (Gemini δωρεάν βαθμίδα)",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.9.2/TechMate-1.9.2.apk",
+  "version": "1.9.3",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.9.3/bundle.zip",
+  "sha256": "c289cb1195f5202d073bcaa00fb0c240bb54406ce3e900443dd7fbf981f03439",
+  "notes": "1.9.3: βοηθός — σε υπερφόρτωση του Gemini δοκιμάζει άλλο μοντέλο",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.9.3/TechMate-1.9.3.apk",
   "minNative": "1.9.0",
-  "apkSize": 7844422
+  "apkSize": 7844394
 }

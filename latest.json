@@ -1,9 +1,9 @@
 {
-  "version": "1.4.0",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.4.0/bundle.zip",
-  "sha256": "6ae3f860e94294cfd5e55863a9fb2ff19c8a12b2c58a342fda4b92aed273c602",
-  "notes": "1.4.0: ιστοσελίδα, κατάλογος προϊόντων, ρυθμίσεις όπως στο PWA, κουμπί πίσω, εικονίδια",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.4.0/TechMate-1.4.0.apk",
-  "minNative": "1.3.1",
-  "apkSize": 6978086
+  "version": "1.5.0",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.5.0/bundle.zip",
+  "sha256": "e8e2161d80d60fee65894b76582ac234455fb07c7a407e3ddd8414699177f956",
+  "notes": "1.5.0: κλείδωμα PIN/δακτυλικό, Home, επιβεβαιώσεις, δόνηση, ιστορικό, κατηγορίες που ανοιγοκλείνουν",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.5.0/TechMate-1.5.0.apk",
+  "minNative": "1.5.0",
+  "apkSize": 7124080
 }

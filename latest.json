@@ -1,9 +1,9 @@
 {
-  "version": "1.6.0",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.6.0/bundle.zip",
-  "sha256": "38339b0e48c678442145430380a6161dfa3780acae1feb59a9f3fc886f19566c",
-  "notes": "1.6.0: πλήρης ισοτιμία με το PWA (editor προσφοράς, live link, κάτοψη, εισπράξεις, pipeline, Συνεργάτης, Οδηγίες, Κάδος, Λογιστικά, καιρός, widget μήνα)",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.6.0/TechMate-1.6.0.apk",
-  "minNative": "1.6.0",
-  "apkSize": 7179373
+  "version": "1.7.0",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.7.0/bundle.zip",
+  "sha256": "f1e3d5611c72fccc4b45633b8d6c30ec58433165cbc754110e6659d4c4ea21f8",
+  "notes": "1.7.0: ειδοποιήσεις πελατών (άνοιγμα/αποδοχή προσφοράς, πληρωμές, μηνύματα ιστοσελίδας) με push",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.7.0/TechMate-1.7.0.apk",
+  "minNative": "1.7.0",
+  "apkSize": 7820410
 }

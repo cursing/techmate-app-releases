@@ -1,9 +1,9 @@
 {
-  "version": "1.5.0",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.5.0/bundle.zip",
-  "sha256": "e8e2161d80d60fee65894b76582ac234455fb07c7a407e3ddd8414699177f956",
-  "notes": "1.5.0: κλείδωμα PIN/δακτυλικό, Home, επιβεβαιώσεις, δόνηση, ιστορικό, κατηγορίες που ανοιγοκλείνουν",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.5.0/TechMate-1.5.0.apk",
-  "minNative": "1.5.0",
-  "apkSize": 7124080
+  "version": "1.6.0",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.6.0/bundle.zip",
+  "sha256": "38339b0e48c678442145430380a6161dfa3780acae1feb59a9f3fc886f19566c",
+  "notes": "1.6.0: πλήρης ισοτιμία με το PWA (editor προσφοράς, live link, κάτοψη, εισπράξεις, pipeline, Συνεργάτης, Οδηγίες, Κάδος, Λογιστικά, καιρός, widget μήνα)",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.6.0/TechMate-1.6.0.apk",
+  "minNative": "1.6.0",
+  "apkSize": 7179373
 }

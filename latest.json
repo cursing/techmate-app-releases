@@ -1,9 +1,9 @@
 {
-  "version": "1.7.0",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.7.0/bundle.zip",
-  "sha256": "f1e3d5611c72fccc4b45633b8d6c30ec58433165cbc754110e6659d4c4ea21f8",
-  "notes": "1.7.0: ειδοποιήσεις πελατών (άνοιγμα/αποδοχή προσφοράς, πληρωμές, μηνύματα ιστοσελίδας) με push",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.7.0/TechMate-1.7.0.apk",
-  "minNative": "1.7.0",
-  "apkSize": 7820410
+  "version": "1.8.0",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.8.0/bundle.zip",
+  "sha256": "fac98389f1821b6841c3f5bf0a61da5a7c77117e23a455ec09af47ed69f81087",
+  "notes": "1.8.0: φωνητικός βοηθός 🎙️ (ραντεβού, πρόγραμμα, πελάτες, προσφορές με φωνή)",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.8.0/TechMate-1.8.0.apk",
+  "minNative": "1.8.0",
+  "apkSize": 7831686
 }

@@ -1,9 +1,9 @@
 {
-  "version": "1.8.0",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.8.0/bundle.zip",
-  "sha256": "fac98389f1821b6841c3f5bf0a61da5a7c77117e23a455ec09af47ed69f81087",
-  "notes": "1.8.0: φωνητικός βοηθός 🎙️ (ραντεβού, πρόγραμμα, πελάτες, προσφορές με φωνή)",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.8.0/TechMate-1.8.0.apk",
-  "minNative": "1.8.0",
-  "apkSize": 7831686
+  "version": "1.9.0",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.9.0/bundle.zip",
+  "sha256": "43fec8ea9276e86c3e19be0d228d7983e661e52bd781b6a429e22f4f1b04e5dd",
+  "notes": "1.9.0: φωνητικό ραντεβού από widget (🎙), γρήγορο ραντεβού από το widget μήνα, συγχρονισμός To Do, ιστορικό ειδοποιήσεων, νέο μενού προσφορών, δακτυλικό",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.9.0/TechMate-1.9.0.apk",
+  "minNative": "1.9.0",
+  "apkSize": 7844050
 }

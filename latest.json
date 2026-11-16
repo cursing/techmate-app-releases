@@ -1,9 +1,9 @@
 {
-  "version": "1.9.3",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.9.3/bundle.zip",
-  "sha256": "c289cb1195f5202d073bcaa00fb0c240bb54406ce3e900443dd7fbf981f03439",
-  "notes": "1.9.3: βοηθός — σε υπερφόρτωση του Gemini δοκιμάζει άλλο μοντέλο",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.9.3/TechMate-1.9.3.apk",
-  "minNative": "1.9.0",
-  "apkSize": 7844394
+  "version": "1.10.0",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.10.0/bundle.zip",
+  "sha256": "b35a36d78e7af809ddf07896ac69f95d1bc33ffc6374cacfa4a5242ce07707c9",
+  "notes": "1.10.0: νέο εικονίδιο, θέματα χρωμάτων, αναζήτηση στην Αρχική, ενιαίο widget μήνα+εργασιών, widgets που αλλάζουν μέγεθος, επιβεβαιώσεις ειδοποιήσεων υπαλλήλων",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.10.0/TechMate-1.10.0.apk",
+  "minNative": "1.10.0",
+  "apkSize": 7935493
 }

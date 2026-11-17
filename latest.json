@@ -1,9 +1,9 @@
 {
-  "version": "1.10.0",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.10.0/bundle.zip",
-  "sha256": "b35a36d78e7af809ddf07896ac69f95d1bc33ffc6374cacfa4a5242ce07707c9",
-  "notes": "1.10.0: νέο εικονίδιο, θέματα χρωμάτων, αναζήτηση στην Αρχική, ενιαίο widget μήνα+εργασιών, widgets που αλλάζουν μέγεθος, επιβεβαιώσεις ειδοποιήσεων υπαλλήλων",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.10.0/TechMate-1.10.0.apk",
-  "minNative": "1.10.0",
-  "apkSize": 7935493
+  "version": "1.11.0",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.11.0/bundle.zip",
+  "sha256": "75f980b4234c05b691a6aecd0b41308af20781dbd36523f5866023e4b6d29825",
+  "notes": "1.11.0: σκούρα θέματα, εικονίδια σε όλα τα είδη, πιο μαζεμένες γραμμές προσφοράς, χρώματα widget",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.11.0/TechMate-1.11.0.apk",
+  "minNative": "1.11.0",
+  "apkSize": 7957606
 }

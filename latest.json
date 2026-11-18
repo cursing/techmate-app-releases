@@ -1,9 +1,9 @@
 {
-  "version": "1.11.0",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.11.0/bundle.zip",
-  "sha256": "75f980b4234c05b691a6aecd0b41308af20781dbd36523f5866023e4b6d29825",
-  "notes": "1.11.0: σκούρα θέματα, εικονίδια σε όλα τα είδη, πιο μαζεμένες γραμμές προσφοράς, χρώματα widget",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.11.0/TechMate-1.11.0.apk",
-  "minNative": "1.11.0",
-  "apkSize": 7957606
+  "version": "1.12.0",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.12.0/bundle.zip",
+  "sha256": "9dc5b694d09d5355a290bd094c9e66e4897bfded4df0099b71ec02c838b7e0a3",
+  "notes": "OneDrive με 2 λογαριασμούς, προεργασία πελάτη με φωτογραφίες και σημάδια, link για ηλεκτρολόγο, Σελίδα πελάτη με ένα πάτημα, «Σίγαση» στις υπενθυμίσεις, ιστορικό αποστολών προς πελάτες και υπαλλήλους, Συνεργάτης: λεφτά από πελάτη μου, χωρίς οριζόντια κύλιση",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.12.0/TechMate-1.12.0.apk",
+  "minNative": "1.12.0",
+  "apkSize": 7977322
 }

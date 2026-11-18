@@ -1,9 +1,9 @@
 {
-  "version": "1.13.0",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.13.0/bundle.zip",
-  "sha256": "f66ecd3982c893d3f9458d84a512f8a349554daa59084a5f2027c3425a4a1963",
-  "notes": "Συσκευές & κωδικοί: IP, χρήστης, κωδικός και σειριακός ανά προϊόν/τεμάχιο της εργασίας (κρυπτογραφημένα, ίδια με το PWA)· μετά το «Έγινε» σε πάει κατευθείαν εκεί",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.13.0/TechMate-1.13.0.apk",
+  "version": "1.14.0",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.14.0/bundle.zip",
+  "sha256": "fed61182889bf7efc3d5f20515e641d2f01306adf3d1f695b95eb803d75c5e2e",
+  "notes": "Νέος φάκελος πελάτη με καρτέλες· εγκαταστάσεις ως λίστα ελέγχου 6 βημάτων με οδηγό· υπογραφή πελάτη και βεβαίωση εγκατάστασης PDF από το κινητό",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.14.0/TechMate-1.14.0.apk",
   "minNative": "1.12.0",
-  "apkSize": 7983098
+  "apkSize": 7989970
 }

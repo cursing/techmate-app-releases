@@ -1,9 +1,9 @@
 {
-  "version": "1.12.0",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.12.0/bundle.zip",
-  "sha256": "9dc5b694d09d5355a290bd094c9e66e4897bfded4df0099b71ec02c838b7e0a3",
-  "notes": "OneDrive με 2 λογαριασμούς, προεργασία πελάτη με φωτογραφίες και σημάδια, link για ηλεκτρολόγο, Σελίδα πελάτη με ένα πάτημα, «Σίγαση» στις υπενθυμίσεις, ιστορικό αποστολών προς πελάτες και υπαλλήλους, Συνεργάτης: λεφτά από πελάτη μου, χωρίς οριζόντια κύλιση",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.12.0/TechMate-1.12.0.apk",
+  "version": "1.13.0",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.13.0/bundle.zip",
+  "sha256": "f66ecd3982c893d3f9458d84a512f8a349554daa59084a5f2027c3425a4a1963",
+  "notes": "Συσκευές & κωδικοί: IP, χρήστης, κωδικός και σειριακός ανά προϊόν/τεμάχιο της εργασίας (κρυπτογραφημένα, ίδια με το PWA)· μετά το «Έγινε» σε πάει κατευθείαν εκεί",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.13.0/TechMate-1.13.0.apk",
   "minNative": "1.12.0",
-  "apkSize": 7977322
+  "apkSize": 7983098
 }

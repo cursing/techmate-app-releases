@@ -1,9 +1,9 @@
 {
-  "version": "1.15.2",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.15.2/bundle.zip",
-  "sha256": "cef0e1ea0b36b0195781436fcdafcf16788acc09141ca0ad398f3124532abc80",
-  "notes": "Παράδοση: όσα δεν χρειάζονται φαίνονται γκρι (όχι πράσινα), μικρότερο κουμπί υπογραφής, πιο μαζεμένα κουμπιά στις συσκευές",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.15.1/TechMate-1.15.1.apk",
-  "minNative": "1.15.1",
-  "apkSize": 7999546
+  "version": "1.16.0",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.16.0/bundle.zip",
+  "sha256": "2d6e871ebe017d919ca991e816ca0f36b3aeb6a17a1da7036c70ac71a0c35ec4",
+  "notes": "Φωνητικός οδηγός με ζωντανό κείμενο και κουμπί «✓ Τέλος, στείλε» · Google Drive ως 3ος λογαριασμός στα Αρχεία · Μία ερώτηση επιβεβαίωσης αντί για δύο · Η live προσφορά ενημερώνεται αυτόματα με την Αποθήκευση",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.16.0/TechMate-1.16.0.apk",
+  "minNative": "1.16.0",
+  "apkSize": 8195264
 }

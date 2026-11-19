@@ -1,8 +1,8 @@
 {
-  "version": "1.15.1",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.15.1/bundle.zip",
-  "sha256": "24c69b4a30264b400f2ca6f80626fad17dab4f4dc410681f5ff01c6cd2a9d023",
-  "notes": "Νέα σελίδα «Παράδοση» στις εγκαταστάσεις (όλα σε μία σελίδα, υπογραφή & αποστολή βεβαίωσης) · Ερώτηση πριν από κάθε διαγραφή και αλλαγή · Γρήγορο ραντεβού από το widget χωρίς PIN (μόνο προσθήκη) · Σωστά ποσά «χρωστά» παντού · Κατόψεις στο cloud · Επιλογή ημερών στην αρχική · Αυτόματο ποσό στον συνεργάτη · Σειριακοί/κωδικοί ανά τεμάχιο",
+  "version": "1.15.2",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.15.2/bundle.zip",
+  "sha256": "cef0e1ea0b36b0195781436fcdafcf16788acc09141ca0ad398f3124532abc80",
+  "notes": "Παράδοση: όσα δεν χρειάζονται φαίνονται γκρι (όχι πράσινα), μικρότερο κουμπί υπογραφής, πιο μαζεμένα κουμπιά στις συσκευές",
   "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.15.1/TechMate-1.15.1.apk",
   "minNative": "1.15.1",
   "apkSize": 7999546

@@ -1,9 +1,9 @@
 {
-  "version": "1.17.5",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.5/bundle.zip",
-  "sha256": "5a886148329e1b435899d8043e682e9203b17984dc85ffc65540de858b13ec30",
-  "notes": "🎙️ Μικρόφωνο widget: ανοίγει κατευθείαν τη φωνή της Google — μιλάς και το ραντεβού εμφανίζεται έτοιμο (και με κλειδωμένη εφαρμογή, μόνο για προσθήκη).",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.5/TechMate-1.17.5.apk",
-  "minNative": "1.17.5",
-  "apkSize": 8233515
+  "version": "1.17.6",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.6/bundle.zip",
+  "sha256": "a6d18da83e2b21da320afdd6ce5e216b1bf7ce7530e3bf8c32b1fb00c9d1b436",
+  "notes": "🎙️ Μικρόφωνο widget: νέο παράθυρο που δεν κόβει στις παύσεις, με κουμπί «Τέλος». 🛒 Υπενθυμίσεις με φωνή (π.χ. «να αγοράσω καλώδια και κουτιά»). 👆 Πιο γρήγορο δακτυλικό.",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.6/TechMate-1.17.6.apk",
+  "minNative": "1.17.6",
+  "apkSize": 8240559
 }

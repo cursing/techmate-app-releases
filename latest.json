@@ -1,9 +1,9 @@
 {
-  "version": "1.17.6",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.6/bundle.zip",
-  "sha256": "a6d18da83e2b21da320afdd6ce5e216b1bf7ce7530e3bf8c32b1fb00c9d1b436",
-  "notes": "🎙️ Μικρόφωνο widget: νέο παράθυρο που δεν κόβει στις παύσεις, με κουμπί «Τέλος». 🛒 Υπενθυμίσεις με φωνή (π.χ. «να αγοράσω καλώδια και κουτιά»). 👆 Πιο γρήγορο δακτυλικό.",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.6/TechMate-1.17.6.apk",
-  "minNative": "1.17.6",
-  "apkSize": 8240559
+  "version": "1.17.7",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.7/bundle.zip",
+  "sha256": "34e06def181ecdf4ad940c475b25c2866b5a440acdd7214a729c316601fee2c0",
+  "notes": "🎙️ Μικρόφωνο widget: το παράθυρο ανοίγει στη μέση της οθόνης (τα κουμπιά δεν κρύβονται πια από τη μπάρα του Android).",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.7/TechMate-1.17.7.apk",
+  "minNative": "1.17.7",
+  "apkSize": 8240967
 }

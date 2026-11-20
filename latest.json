@@ -1,8 +1,8 @@
 {
-  "version": "1.17.0",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.0/bundle.zip",
-  "sha256": "3163be78a365331a6a4cfd04a0bdcbfb181bfc2417b46a53b9c303500ba0df5f",
-  "notes": "📐 Νέο: Προσχέδια — οδηγίες αναμονών για τον ηλεκτρολόγο (φωτογραφίες με εικονίδια, καλώδια, αποστάσεις, λίστα εξοπλισμού χωρίς τιμές, αποστολή με SMS/Viber/WhatsApp, ζωντανή ενημέρωση, PDF). 🕘 Δίπλα σε κάθε ώρα φαίνεται πρωί/βράδυ, και στα widgets. 📆 Μετακίνηση εργασιών με σύρσιμο στο ημερολόγιο.",
+  "version": "1.17.1",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.1/bundle.zip",
+  "sha256": "7682f958a7e75b5d961b36a7df4c1a25db1262701172f8569c4087a1b0ebed76",
+  "notes": "👤 Νέος φάκελος πελάτη και ΦΠΑ στα χρωστούμενα (καθαρό · ΦΠΑ). 📐 Προσχέδια: Live σύνδεσμος, στάνταρ οδηγίες, Starlink/5G. 🎙️ Μικρόφωνο widget: προσθήκη ραντεβού με φωνή χωρίς ξεκλείδωμα PIN.",
   "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.0/TechMate-1.17.0.apk",
   "minNative": "1.17.0",
   "apkSize": 8225059

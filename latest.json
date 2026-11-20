@@ -3,7 +3,7 @@
   "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.0/bundle.zip",
   "sha256": "3163be78a365331a6a4cfd04a0bdcbfb181bfc2417b46a53b9c303500ba0df5f",
   "notes": "📐 Νέο: Προσχέδια — οδηγίες αναμονών για τον ηλεκτρολόγο (φωτογραφίες με εικονίδια, καλώδια, αποστάσεις, λίστα εξοπλισμού χωρίς τιμές, αποστολή με SMS/Viber/WhatsApp, ζωντανή ενημέρωση, PDF). 🕘 Δίπλα σε κάθε ώρα φαίνεται πρωί/βράδυ, και στα widgets. 📆 Μετακίνηση εργασιών με σύρσιμο στο ημερολόγιο.",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.16.0/TechMate-1.16.0.apk",
-  "minNative": "1.16.0",
-  "apkSize": 8195264
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.0/TechMate-1.17.0.apk",
+  "minNative": "1.17.0",
+  "apkSize": 8225059
 }

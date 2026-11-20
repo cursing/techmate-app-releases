@@ -1,8 +1,8 @@
 {
-  "version": "1.17.1",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.1/bundle.zip",
-  "sha256": "7682f958a7e75b5d961b36a7df4c1a25db1262701172f8569c4087a1b0ebed76",
-  "notes": "👤 Νέος φάκελος πελάτη και ΦΠΑ στα χρωστούμενα (καθαρό · ΦΠΑ). 📐 Προσχέδια: Live σύνδεσμος, στάνταρ οδηγίες, Starlink/5G. 🎙️ Μικρόφωνο widget: προσθήκη ραντεβού με φωνή χωρίς ξεκλείδωμα PIN.",
+  "version": "1.17.2",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.2/bundle.zip",
+  "sha256": "5280487fcb7d453b6cb3d70e04cf2bedab2429808a18a2c2676c46abd6d1c892",
+  "notes": "🔒 Νέα οθόνη κλειδώματος (ώρα, λογότυπο, γρήγορο ραντεβού με φωνή). 🎙️ Μικρόφωνο widget: δουλεύει σταθερά χωρίς ξεκλείδωμα.",
   "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.0/TechMate-1.17.0.apk",
   "minNative": "1.17.0",
   "apkSize": 8225059

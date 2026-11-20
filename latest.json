@@ -1,8 +1,8 @@
 {
-  "version": "1.17.3",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.3/bundle.zip",
-  "sha256": "c0b6aab8ee44997209b023c4f12ff0de869dcb6b2258e5273a00e0fcaebbf071",
-  "notes": "🎙️ Μικρόφωνο widget: χωρίς δακτυλικό που διακόπτει τη φωνή. 📍 Η εφαρμογή μένει στη σελίδα όπου ήσουν όταν πας στο παρασκήνιο. 📐 Προσχέδια: καθαρά χρώματα στα επιλεγμένα.",
+  "version": "1.17.4",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.4/bundle.zip",
+  "sha256": "856589ebe81939dd49e827be42c531f8a34283e1f306d54e4e81b786247978ab",
+  "notes": "🎙️ Μικρόφωνο widget: πιο σταθερό (περιμένει την εφαρμογή, χωρίς διπλή εκκίνηση, αυτόματη 2η προσπάθεια). 🛒 Εργαλεία που λείπουν: link αγοράς. 📐 Προσχέδια: επιλογή ειδοποίησης, Viber/WhatsApp, λογότυπο.",
   "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.0/TechMate-1.17.0.apk",
   "minNative": "1.17.0",
   "apkSize": 8225059

@@ -1,8 +1,8 @@
 {
-  "version": "1.17.7",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.7/bundle.zip",
-  "sha256": "34e06def181ecdf4ad940c475b25c2866b5a440acdd7214a729c316601fee2c0",
-  "notes": "🎙️ Μικρόφωνο widget: το παράθυρο ανοίγει στη μέση της οθόνης (τα κουμπιά δεν κρύβονται πια από τη μπάρα του Android).",
+  "version": "1.17.8",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.8/bundle.zip",
+  "sha256": "18579b5641c82270bb74def8fa377776d7091cb23fdc23ad323ca09c95b99fc6",
+  "notes": "Πρόοδος ενημέρωσης με μπάρα, μήνυμα συγχρονισμού με τον υπολογιστή, είδη προσφοράς σε μία γραμμή, ημερομηνία προκαταβολής",
   "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.7/TechMate-1.17.7.apk",
   "minNative": "1.17.7",
   "apkSize": 8240967

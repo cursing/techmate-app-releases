@@ -1,9 +1,9 @@
 {
-  "version": "1.17.9",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.9/bundle.zip",
-  "sha256": "bf73ca50c0c4dec95079c197c1de11b5b9a9e2ca4ee0a4640ba711620e195427",
-  "notes": "Εργαλεία που λείπουν σε δική τους ενότητα, φωνητική προσθήκη εργαλείων στη λίστα, «↗ Άνοιγμα» live προσφοράς χωρίς ειδοποίηση",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.17.7/TechMate-1.17.7.apk",
-  "minNative": "1.17.7",
-  "apkSize": 8240967
+  "version": "1.18.0",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.18.0/bundle.zip",
+  "sha256": "1f8c7d1c0be8cc50900506f13adc4cb0410d3df02879da40cc830e61619e6464",
+  "notes": "Νέα widget (μεγάλα γράμματα, μήνας+εργασίες, εργασίες, σημειώσεις), κατηγορίες εργασιών, σημειώσεις, διαγραφή πελάτη/προσφοράς, «ερχόμαστε» με WhatsApp/Viber",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.18.0/TechMate-1.18.0.apk",
+  "minNative": "1.18.0",
+  "apkSize": 8307551
 }

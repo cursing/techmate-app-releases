@@ -1,9 +1,10 @@
 {
-  "version": "1.18.2",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.18.2/bundle.zip",
-  "sha256": "7e4cd88c0933d2b4f904d1196449b7c7d3549ad9499cb77c48b788e60aa7e7b0",
-  "notes": "Widget εργασιών σε στυλ To Do (λίστες ▾, ⭐, checklist)· πάτημα μέρας στο ημερολόγιο δείχνει τις εργασίες της· ημερολόγιο που χωράει όλες τις εβδομάδες· αυτόματη διόρθωση τόνων/ορθογραφίας/greeklish· χάρτης καιρού· συντηρήσεις με μήνυμα Viber/WhatsApp· αίτημα κριτικής Google· λειτουργία χωρίς σήμα· Κατάσταση συστήματος με credits Netlify",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.18.2/TechMate-1.18.2.apk",
-  "minNative": "1.18.2",
-  "apkSize": 10958127
+  "version": "1.18.3",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.18.3/bundle.zip",
+  "sha256": "a5d2f14df19fd7abad1eff1747fc2284d757cad2725803b42ea61ccf7dc455a2",
+  "notes": "Βοηθός AI (συνομιλία, πρόχειρες προσφορές, πρωινή ενημέρωση) · διπλός έλεγχος σύνδεσης · ειδοποιήσεις με κουμπιά · ιστορικό επισκέψεων · αλλαγή ραντεβού με ενημέρωση πελάτη · μεταφορά εργασίας σε άλλη μέρα · γρηγορότερο φωνητικό widget · μπαταρία · νέο κλειδί υπογραφής",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.18.3/TechMate-1.18.3.apk",
+  "minNative": "1.18.3",
+  "apkSize": 10992463,
+  "sig": "8qJzAMY3DbpLreFuE9D5I85xwKRtiT+SN9XXXO9FsTBrI7VNe/itzelZU9dgwY/Hq8QuqAsBchTCYmVhoijFcA=="
 }

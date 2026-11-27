@@ -1,9 +1,9 @@
 {
-  "version": "1.18.1",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.18.1/bundle.zip",
-  "sha256": "f653f7eb7840079899152d0bbc686efb4be2f9c5f5744023c38e6e93eb1aa95b",
-  "notes": "Νέο στυλ widget (σκούρο, κίτρινο +) με εικόνες στη λίστα widget· κουμπί 👁 «Τελειωμένα & παλιά» σε ημερολόγιο και widget· τέλος στα ψεύτικα «άνοιξε την προσφορά» στο άνοιγμα· αρχική χωρίς ποσά· νέες εργασίες χωρίς υπενθύμιση",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.18.1/TechMate-1.18.1.apk",
-  "minNative": "1.18.1",
-  "apkSize": 8514070
+  "version": "1.18.2",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.18.2/bundle.zip",
+  "sha256": "7e4cd88c0933d2b4f904d1196449b7c7d3549ad9499cb77c48b788e60aa7e7b0",
+  "notes": "Widget εργασιών σε στυλ To Do (λίστες ▾, ⭐, checklist)· πάτημα μέρας στο ημερολόγιο δείχνει τις εργασίες της· ημερολόγιο που χωράει όλες τις εβδομάδες· αυτόματη διόρθωση τόνων/ορθογραφίας/greeklish· χάρτης καιρού· συντηρήσεις με μήνυμα Viber/WhatsApp· αίτημα κριτικής Google· λειτουργία χωρίς σήμα· Κατάσταση συστήματος με credits Netlify",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.18.2/TechMate-1.18.2.apk",
+  "minNative": "1.18.2",
+  "apkSize": 10958127
 }

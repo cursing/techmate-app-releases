@@ -1,10 +1,10 @@
 {
-  "version": "1.18.3",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.18.3/bundle.zip",
-  "sha256": "a5d2f14df19fd7abad1eff1747fc2284d757cad2725803b42ea61ccf7dc455a2",
-  "notes": "Βοηθός AI (συνομιλία, πρόχειρες προσφορές, πρωινή ενημέρωση) · διπλός έλεγχος σύνδεσης · ειδοποιήσεις με κουμπιά · ιστορικό επισκέψεων · αλλαγή ραντεβού με ενημέρωση πελάτη · μεταφορά εργασίας σε άλλη μέρα · γρηγορότερο φωνητικό widget · μπαταρία · νέο κλειδί υπογραφής",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.18.3/TechMate-1.18.3.apk",
+  "version": "1.18.4",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.18.4/bundle.zip",
+  "sha256": "84299d23f5c2b8c29abba9e8836ffcbec2d63429b20e7d8dd7e234b8f26c200e",
+  "notes": "Πελάτες: σωστό «χρωστάει» μετά από «Καταχώρηση ως πώληση»",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.18.4/TechMate-1.18.4.apk",
   "minNative": "1.18.3",
-  "apkSize": 10992463,
-  "sig": "8qJzAMY3DbpLreFuE9D5I85xwKRtiT+SN9XXXO9FsTBrI7VNe/itzelZU9dgwY/Hq8QuqAsBchTCYmVhoijFcA=="
+  "apkSize": 10992483,
+  "sig": "w5X3Nj7tp23YkG0h7kiMGZU5aOtGcYEj0j8ZmDEMObFZ5GF5R0dsXVP85QfM1l8exGx0T6OEw1PYkQSzWliEWg=="
 }

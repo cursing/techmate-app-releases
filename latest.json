@@ -1,10 +1,10 @@
 {
-  "version": "1.18.4",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.18.4/bundle.zip",
-  "sha256": "84299d23f5c2b8c29abba9e8836ffcbec2d63429b20e7d8dd7e234b8f26c200e",
-  "notes": "Πελάτες: σωστό «χρωστάει» μετά από «Καταχώρηση ως πώληση»",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.18.4/TechMate-1.18.4.apk",
-  "minNative": "1.18.3",
-  "apkSize": 10992483,
-  "sig": "w5X3Nj7tp23YkG0h7kiMGZU5aOtGcYEj0j8ZmDEMObFZ5GF5R0dsXVP85QfM1l8exGx0T6OEw1PYkQSzWliEWg=="
+  "version": "1.18.5",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.18.5/bundle.zip",
+  "sha256": "86f2a8d00dc23905d73497826b3b30e0ab2c18e72c8f0da0502e1616b6f1f4fd",
+  "notes": "Λογαριασμός με συνεργάτη (συμψηφισμός μεροκαμάτων, ιστορικό, ειδοποιήσεις) · Οδηγοί τεχνικών · έσοδα από συνεργάτες στα λογιστικά · μικρότερα widget/φύλλα και μέγεθος γραμμάτων · μεταφορά ραντεβού με ένα πάτημα · greeklish αβ/ab",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-app-releases/main/v1.18.5/TechMate-1.18.5.apk",
+  "minNative": "1.18.5",
+  "apkSize": 11018915,
+  "sig": "zbUSB+cWgHk7nbWoiwY+5gaLWHluSP1tiF3+CDqcADsuXVTuurDR9h1i4uRvndmSM8lKu2rmbb880dTKQGkMEw=="
 }
